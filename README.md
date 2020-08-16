@@ -34,7 +34,7 @@ We worked with the following **resources** to generate the results:
     - When we corrected for this by only counting tenth to twelfth-graders in the student count for Thomas High School, the affect on the school summary became almost negligible and basically non-existent when rounded to the whole percentage.
 
         - Replaced grade percentage school summary
-            ![Replaced_%_School_Summary.png](Images/Replaced_%_School_Summary.png)
+            ![Replaced_School_Summary.png](Images/Replaced_School_Summary.png)
 
 - Affect on Thomas High School's performance relative to the other schools after replacing the ninth-graders' math and reading scores:
     - There was no affect on Thomas High School's performance relative to other schools.  Thomas High School in both scenarios ranked second based on overall passing percentage.
